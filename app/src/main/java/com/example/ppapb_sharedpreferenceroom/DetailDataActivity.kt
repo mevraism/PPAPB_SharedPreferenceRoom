@@ -1,12 +1,10 @@
-package com.example.tugasroomdatabase
+package com.example.ppapb_sharedpreferenceroom
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import com.example.tugasroomdatabase.databinding.ActivityDetailDataBinding
-import com.example.tugasroomdatabase.databinding.ActivityInputDataBinding
-import com.example.tugasroomdatabase.databinding.ActivityMainBinding
+import com.example.ppapb_sharedpreferenceroom.databinding.ActivityDetailDataBinding
 
 class DetailDataActivity : AppCompatActivity() {
     private lateinit var binding: ActivityDetailDataBinding

@@ -1,11 +1,11 @@
-package com.example.tugasroomdatabase
+package com.example.ppapb_sharedpreferenceroom
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import com.example.PrefManager
-import com.example.tugasroomdatabase.databinding.ActivityMainBinding
+import com.example.ppapb_sharedpreferenceroom.databinding.ActivityMainBinding
 
 class LoginActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

@@ -1,4 +1,4 @@
-package com.example.tugasroomdatabase
+package com.example.ppapb_sharedpreferenceroom
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageButton
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.tugasroomdatabase.R
-import com.example.tugasroomdatabase.database.DataPemilih
+import com.example.ppapb_sharedpreferenceroom.R
+import com.example.ppapb_sharedpreferenceroom.database.DataPemilih
 
 class DataPemilihAdapter(
     private val dataList: List<DataPemilih>,

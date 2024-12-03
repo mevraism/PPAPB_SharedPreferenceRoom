@@ -1,4 +1,4 @@
-package com.example.tugasroomdatabase.database
+package com.example.ppapb_sharedpreferenceroom.database
 
 import android.content.Context
 import androidx.room.Database

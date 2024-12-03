@@ -1,4 +1,4 @@
-package com.example.tugasroomdatabase.database
+package com.example.ppapb_sharedpreferenceroom.database
 
 import androidx.annotation.NonNull
 import androidx.room.ColumnInfo

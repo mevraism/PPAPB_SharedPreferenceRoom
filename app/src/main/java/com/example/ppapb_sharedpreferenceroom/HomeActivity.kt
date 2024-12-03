@@ -1,17 +1,16 @@
-package com.example.tugasroomdatabase
+package com.example.ppapb_sharedpreferenceroom
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.DataPemilihAdapter
 import com.example.PrefManager
-import com.example.tugasroomdatabase.database.DataPemilih
-import com.example.tugasroomdatabase.database.DataPemilihDao
-import com.example.tugasroomdatabase.database.DataPemilihRoomDatabase
-import com.example.tugasroomdatabase.databinding.ActivityHomeBinding
+import com.example.ppapb_sharedpreferenceroom.database.DataPemilih
+import com.example.ppapb_sharedpreferenceroom.database.DataPemilihDao
+import com.example.ppapb_sharedpreferenceroom.database.DataPemilihRoomDatabase
+import com.example.ppapb_sharedpreferenceroom.databinding.ActivityHomeBinding
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 

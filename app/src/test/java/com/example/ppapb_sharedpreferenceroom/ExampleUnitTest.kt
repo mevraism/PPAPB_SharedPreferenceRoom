@@ -1,4 +1,4 @@
-package com.example.tugasroomdatabase
+package com.example.ppapb_sharedpreferenceroom
 
 import org.junit.Test
 
